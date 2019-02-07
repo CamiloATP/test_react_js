@@ -9,6 +9,24 @@ codigo como una api
 
 NOTA: Investigar -> Server Side Rendering
 
+---
 
+Related Tools(Herramientas relacionadas)
+
+*.- React Native(interfaces for app mobile)
+*.- React Windows(interfaces for app Desk)
+*.- Next.js(Server side rendering)
+*.- GraphQL(Obtener datos de servidores remotos y utilizarlo en la interfaces) <-- o rest api 
+*.- Redux(Administrar el estado de los datos de la aplicación listar... el crud¿?)
+*.- Flux
+
+Para empezar a utilizar react.js, primero se necesita instalar node.js para la interpretacion 
+de js y para ejecutarlo en el S.O y luego pasarlo al navegador.
+
+/* Para instalar el auto instalador por via comando de react.js para crear proyectos con las librerias necesarias */
+> npm install -g create-react-app
+
+/* Para crear la aplicación con sus librerias necesarias, se necesita internet para poder usar este comando */
+> create-react-app nombredelaaplicacion
 
 

@@ -23,6 +23,11 @@ Related Tools(Herramientas relacionadas)
 Para empezar a utilizar react.js, primero se necesita instalar node.js para la interpretacion 
 de js y para ejecutarlo en el S.O y luego pasarlo al navegador.
 
+NPM(Node Package Manager -> es el administrador de paquetes de node.js)
+
+/* Se debe instalar el auto instalador de react.js con las librerias necesarias para empezar un proyecto */
+> npm install -g create-react-app
+
 /* Para instalar el auto instalador por via comando de react.js para crear proyectos con las librerias necesarias */
 > npm install -g create-react-app
 
@@ -31,6 +36,13 @@ de js y para ejecutarlo en el S.O y luego pasarlo al navegador.
 
 /* Para ver la versión de react.js de un proyecto creado con la app create-react-app */
 > create-react-app nombreproyecto --info
+
+---
+
+
+
+
+
 
 
 

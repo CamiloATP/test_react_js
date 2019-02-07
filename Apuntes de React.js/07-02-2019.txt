@@ -29,4 +29,8 @@ de js y para ejecutarlo en el S.O y luego pasarlo al navegador.
 /* Para crear la aplicación con sus librerias necesarias, se necesita internet para poder usar este comando */
 > create-react-app nombredelaaplicacion
 
+/* Para ver la versión de react.js de un proyecto creado con la app create-react-app */
+> create-react-app nombreproyecto --info
+
+
 

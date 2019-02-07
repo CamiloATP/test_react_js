@@ -1,0 +1,14 @@
+
+React.js trabaja con otros frameworks, librerias , tecnologias, para trabajar más alla de 
+la vista.
+
+*.- Trabaja con virtual Dom
+*.- Trabaja con componentes(Se pueden crear nuestras propias etiquetas html), es reusa el 
+codigo como una api
+---
+
+NOTA: Investigar -> Server Side Rendering
+
+
+
+

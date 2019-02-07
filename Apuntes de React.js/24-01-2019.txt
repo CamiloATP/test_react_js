@@ -1,0 +1,16 @@
+
+React.js
+----------
+
+*.- Es una librería  para construir interfaces web para usuario.
+*.- MVC es la v(vista)
+*.- Aplicaciones de una pagina SPA(single page applications)
+---
+
+
+
+
+
+
+ 
+

@@ -72,7 +72,7 @@ class App extends Component {
               <TaskForm onAddTask={this.handleAddTask}/>
             </div>
             <div className="col-md-9">
-              <div class="row">
+              <div className="row">
                 {tasks}
               </div>
             </div>

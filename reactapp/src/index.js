@@ -14,10 +14,10 @@ import App from './App';
 // progressive web app <-- investigar
 import * as serviceWorker from './serviceWorker'; // para que la app trabaje sin conexión
 
-// app de navegador renderizar la app en pantalla
+// App para el navegador(ReactDOM) renderizar la app en pantalla
 ReactDOM.render(
   <App />, // <-- la App importada jsx de la app
-  document.getElementById('root') // <-- donde va a cargar la app
+  document.getElementById('root') // <-- Donde va a cargar la app
 );
 
 // If you want your app to work offline and load faster, you can change

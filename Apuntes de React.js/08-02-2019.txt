@@ -1,0 +1,4 @@
+
+/* comando para corre de manera local react */
+npm run start
+

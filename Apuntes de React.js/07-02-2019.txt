@@ -39,6 +39,31 @@ NPM(Node Package Manager -> es el administrador de paquetes de node.js)
 
 ---
 
+Toda la aplicación, react se monta dentro del archivo index.html
+
+> src, en esta carpeta se encuentrará el código de react.js, el archivo main para arracar la aplicación es index.js
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
